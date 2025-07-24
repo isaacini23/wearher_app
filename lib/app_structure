@@ -1,0 +1,15 @@
+lib/
+├── main.dart
+├── constants/
+│   └── colors.dart
+├── models/
+│   └── weather_model.dart
+├── screens/
+│   ├── welcome_screen.dart
+│   ├── forecast_screen.dart
+│   └── today_screen.dart
+├── widgets/
+│   ├── weather_card.dart
+│   └── forecast_tile.dart
+└── services/
+    └── weather_service.dart
